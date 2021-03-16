@@ -36,7 +36,7 @@
 
 ## Project
 
-Desenvolvimento de app para controle financeiro do bootcamp Ignite React da Rocketseat.
+App para controle financeiro pessoal desenvolvido no bootcamp Ignite React - Chapter 02 da Rocketseat.
 
 ## Languages and Tools
 
