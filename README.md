@@ -43,3 +43,5 @@ App para controle financeiro pessoal desenvolvido no bootcamp Ignite React - Cha
 - React
 - Typescript
 - Styled Components
+- MirageJs
+- Axios
